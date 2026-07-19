@@ -1,0 +1,4 @@
+#define DOCTEST_CONFIG_IMPLEMENT_WITH_MAIN
+#include "doctest.h"
+
+// 主函数已在 DOCTEST_CONFIG_IMPLEMENT 中生成

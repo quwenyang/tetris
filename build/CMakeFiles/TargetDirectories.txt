@@ -1,0 +1,3 @@
+D:/OpenCode Test/demo4/build/CMakeFiles/tetris.dir
+D:/OpenCode Test/demo4/build/CMakeFiles/edit_cache.dir
+D:/OpenCode Test/demo4/build/CMakeFiles/rebuild_cache.dir
